@@ -1,2 +1,1 @@
 # FrousBot
-print ('G')
